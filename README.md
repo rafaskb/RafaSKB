@@ -1,9 +1,9 @@
 <h2> Hi, I'm Rafa Skoberg! 👋</h2>
 <img align='right' src="https://media.giphy.com/media/kdddIq6rZJIEbHVlHk/giphy.gif" width="230">
 <p><em>
-  Software Enginner at <a href="http://www.pinkarray.com">Pink Array</a> developing <a href="http://www.grashers.com">Grashers <img src="http://grashers.com/images/lil_grasher.png" width="40"></a>
+  Founder & Software Enginner at <a href="http://www.pinkarray.com">Pink Array</a> developing <a href="http://www.grashers.com">Grashers <img src="http://grashers.com/images/lil_grasher.png" width="40"></a>
   </br>
-  Coffee lover ☕, cat person 🐱, and author of bad jokes 😅
+  Coffee lover ☕, cat person 🐱, and author of many bad jokes 😅
 </em></p>
 
 [![Linkedin: rafaskoberg](https://img.shields.io/badge/-rafaskoberg-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaskoberg/)](https://www.linkedin.com/in/rafaskoberg/)
