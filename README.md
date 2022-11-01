@@ -18,7 +18,7 @@ rafa = {
   games = { "Hades", "Celeste", "Half-Life" },
   food = { 🍣, 🥗, 🍺 },
   communities = { "libGDX", "Indie Games Community" },
-  directives = { "We're all humans", "Life comes first", "Enjoy and have fun!" }
+  directives = { "Respect, inclusion, equality", "Life comes first", "Enjoy and have fun!" }
 }
 ```
 
