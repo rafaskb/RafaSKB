@@ -1,7 +1,7 @@
 <h2> Hi, I'm Rafa Skoberg! 👋</h2>
 <img align='right' src="https://media.giphy.com/media/kdddIq6rZJIEbHVlHk/giphy.gif" width="230">
 <p><em>
-  Founder & Software Enginner at <a href="http://www.pinkarray.com">Pink Array</a> developing <a href="http://www.grashers.com">Grashers <img src="http://grashers.com/images/lil_grasher.png" width="40"></a>
+  Founder & Game Developer at <a href="https://www.patosaur.com">Patosaur</a>, currently developing <a href="https://www.grashers.com">Grashers <img src="https://grashers.com/images/lil_grasher.png" width="40"></a>
   </br>
   Coffee lover ☕, cat person 🐱, and author of many bad jokes 😅
 </em></p>
@@ -14,7 +14,7 @@
 
 ```lua
 rafa = {
-  pronouns = { "He", "His" },
+  pronouns = { "He", "Him" },
   games = { "Hades", "Celeste", "Half-Life" },
   food = { 🍣, 🥗, 🍺 },
   communities = { "libGDX", "Indie Games Community" },
