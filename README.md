@@ -17,7 +17,10 @@ rafa = {
   pronouns = { "He", "Him" },
   games = { "Hades", "Celeste", "Half-Life" },
   food = { 🍣, 🥗, 🍺 },
-  communities = { "libGDX", "Indie Games Community" },
+  communities = {
+    "Indie Games Community" = "https://discord.gg/NfqvrYB",
+    "libGDX" = "https://discord.com/invite/6pgDK9F",
+  },
   directives = { "Respect, inclusion, equality", "Life comes first", "Enjoy and have fun!" }
 }
 ```
