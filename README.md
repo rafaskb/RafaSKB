@@ -8,6 +8,8 @@
 
 [![Linkedin: rafaskoberg](https://img.shields.io/badge/-rafaskoberg-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaskoberg/)](https://www.linkedin.com/in/rafaskoberg/)
 [![Twitter: rafaskoberg](https://img.shields.io/twitter/follow/rafaskoberg?style=social)](https://twitter.com/rafaskoberg)
+[![Discord](https://img.shields.io/discord/666674626088402964?color=5865f2&label=Indie%20Games%20Community&logo=Discord&logoColor=white&style=flat-square)](https://discord.gg/NfqvrYB)
+
 
 
 ### <img src="https://media.giphy.com/media/vrG0KwEKD7CJbTeeaH/giphy.gif" width="30"> A little more about me...  
@@ -15,7 +17,7 @@
 ```lua
 rafa = {
   pronouns = { "He", "Him" },
-  games = { "Hades", "Celeste", "Half-Life" },
+  games = { "Hades", "Celeste", "Tunic", "Half-Life" },
   food = { 🍣, 🥗, 🍺 },
   communities = {
     "Indie Games Community" = "https://discord.gg/NfqvrYB",
