@@ -17,8 +17,8 @@
 ```lua
 rafa = {
   pronouns = { "He", "Him" },
-  games = { "Hades", "Celeste", "Tunic", "Half-Life" },
-  food = { 🍣, 🥗, 🍺 },
+  games = { "Hades", "Celeste", "Tunic", "Half-Life", "Sea of Stars" },
+  food = { 🍣, 🥗, ☕ },
   communities = {
     "Indie Games Community" = "https://discord.gg/NfqvrYB",
     "libGDX" = "https://discord.com/invite/6pgDK9F",
@@ -32,8 +32,5 @@ rafa = {
 <p align="center">
   <a href="https://github.com/RafaSKB/">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=RafaSKB&show_icons=true&theme=gotham&count_private=true&hide_title=true" />
-  </a>
-  <a href="https://github.com/RafaSKB/">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaSKB&layout=default&theme=gotham&count_private=true" />
   </a>
 </p>
